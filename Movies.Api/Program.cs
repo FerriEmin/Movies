@@ -1,3 +1,4 @@
+using Movies.Application;
 
 var builder = WebApplication.CreateBuilder(args);
 
